@@ -5,7 +5,7 @@
   * Twitter Bootstrap
   * [FileStyle.js](https://github.com/markusslima/bootstrap-filestyle)
   * [AwesomeBootstrapCheckbox.css](https://github.com/flatlogic/awesome-bootstrap-checkbox) //for admin part
-  * socicons.css (configurated by me) and fonts
+  * socicons.css (configurated by myself) and fonts
   * CKEditor //for admin part
 
 ***
